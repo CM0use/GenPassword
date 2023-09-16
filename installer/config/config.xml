@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>GenPassword</Name>
+    <Version>1.0.0</Version>
+    <Title>GenPassword Installer</Title>
+    <Publisher>CM0use</Publisher>
+    <ProductUrl>https://github.com/CM0use/GenPassword</ProductUrl>
+    <InstallerWindowIcon>appIcon.png</InstallerWindowIcon>
+    <StartMenuDir>GenPassword</StartMenuDir>
+    <TargetDir>@HomeDir@/GenPassword</TargetDir>
+    <ProductImages>
+        <ProductImage>
+            <Image>appIcon.png</Image>
+            <Url>https://github.com/CM0use/GenPassword</Url>
+        </ProductImage>
+    </ProductImages>
+</Installer>

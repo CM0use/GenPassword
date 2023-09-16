@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/heart.png</file>
+        <file>icon/toggleoff.png</file>
+        <file>icon/toggleon.png</file>
+        <file>icon/clipboard.png</file>
+        <file>icon/showPassword.png</file>
+        <file>icon/appIcon.png</file>
+    </qresource>
+</RCC>
