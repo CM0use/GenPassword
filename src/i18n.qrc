@@ -1,9 +1,5 @@
 <RCC>
-    <qresource prefix="/i18n">
-        <file>languages/en.qm</file>
-        <file>languages/es.qm</file>
-        <file>languages/hi.qm</file>
-        <file>languages/pt-BR.qm</file>
-        <file>languages/zh-CN.qm</file>
+    <qresource prefix="/">
+        <file>i18n/es.qm</file>
     </qresource>
 </RCC>
