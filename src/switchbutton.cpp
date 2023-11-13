@@ -1,6 +1,7 @@
 // SwitchButton
+// Copyright (c) 2018 Iman Ahmadvand
+// Copyright (c) 2021 WANDERSON M.PIMENTA
 // Copyright (c) 2023 CM0use
-// URL: https://github.com/CM0use/SwitchButton
 
 #include "switchbutton.h"
 
