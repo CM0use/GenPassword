@@ -1,4 +1,5 @@
-// GenPassword
+// FramelessWindow Demo for Qt Applications
+// Copyright (c) 2022, Pedro López-Cabanillas <plcl@users.sf.net>. All rights reserved.
 // Copyright (c) 2023 CM0use
 
 #ifndef FRAMELESSWINDOW_H
