@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="macOS">
   <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux">
   <br>
-  <a href="https://github.com/CM0use/GenPassword/releases/"><img src="https://img.shields.io/github/downloads/CM0use/GenPassword/total.svg?style=for-the-badge"></a>
   <a href="https://github.com/CM0use/GenPassword/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge"></a>
 </p>
 
